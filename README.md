@@ -1,6 +1,8 @@
 # Inventory-Stock-Sys.-Manager
 An Inventory/Stock Manager built compositely with JavaFX and Java; implements MVC and OOP standards 
 
+![login](https://user-images.githubusercontent.com/100865738/221245387-cb2a2ce5-f391-4c95-bf83-a8b3bd15663b.png)
+
 
 # System Features
 
@@ -38,4 +40,10 @@ View the logged in user information
 Setting
 View, and Update logged in user information
 
+![dashboard](https://user-images.githubusercontent.com/100865738/221245214-c179c2cb-11ba-47f6-9c4d-91f9b80ddfd7.png)
+
+#Server Requirements
+PHP version 5.6 or newer is recommended.
+
 ![database](https://user-images.githubusercontent.com/100865738/221244661-ff807105-627d-4fae-8096-6a5663c19353.png)
+
