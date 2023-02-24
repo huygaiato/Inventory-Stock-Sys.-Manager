@@ -1,3 +1,4 @@
+![login](https://user-images.githubusercontent.com/100865738/221243923-26a470a3-dfde-4892-a973-3f583ac88e76.png)
 # Inventory-Stock-Sys.-Manager
 An Inventory/Stock Manager built compositely with JavaFX and Java; implements MVC and OOP standards 
 
